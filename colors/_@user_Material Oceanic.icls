@@ -1,29 +1,28 @@
-<scheme name="_@user_Material One Dark" version="142" parent_scheme="Darcula">
+<scheme name="_@user_Material Oceanic" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-03-13T00:43:11</property>
+    <property name="created">2018-03-18T01:22:23</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2017.3.4.0.0</property>
+    <property name="ideVersion">2017.3.6.0.0</property>
     <property name="modified">2018-03-18T01:24:07</property>
-    <property name="originalScheme">Material One Dark</property>
+    <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="ffcc00" />
-    <option name="CARET_ROW_COLOR" value="31353e" />
+    <option name="CARET_ROW_COLOR" value="1b2529" />
     <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
@@ -41,31 +40,26 @@
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_SUPPRESSED" value="979fad" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="c792ea" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
-    <option name="GUTTER_BACKGROUND" value="282c34" />
+    <option name="GUTTER_BACKGROUND" value="263238" />
     <option name="INDENT_GUIDE" value="37474f" />
     <option name="INFORMATION_HINT" value="263238" />
     <option name="LINE_NUMBERS_COLOR" value="475f63" />
     <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
-    <option name="MT_ADDED" value="73c990" />
-    <option name="MT_DELETED" value="ff6347" />
-    <option name="MT_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
-    <option name="MT_MODIFIED" value="e2c08d" />
-    <option name="MT_RENAMED" value="6494ed" />
-    <option name="MT_SUPPRESSED" value="c3cee3" />
+    <option name="MT_SUPPRESSED" value="eeffff" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
-    <option name="NOT_CHANGED" value="979fad" />
+    <option name="NOT_CHANGED" value="607d8b" />
     <option name="QUESTION_HINT" value="263238" />
     <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
     <option name="SELECTED_INDENT_GUIDE" value="80cbc4" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
-    <option name="SELECTION_BACKGROUND" value="3c404d" />
+    <option name="SELECTION_BACKGROUND" value="314549" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="3b4950" />
@@ -142,6 +136,10 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
+    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLADE_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -341,7 +339,7 @@
     </option>
     <option name="COFFEESCRIPT.OBJECT_KEY">
       <value>
-        <option name="FOREGROUND" value="eeffff" />
+        <option name="FOREGROUND" value="ff5370" />
       </value>
     </option>
     <option name="COFFEESCRIPT.OPERATIONS">
@@ -483,7 +481,7 @@
     </option>
     <option name="CTRL_CLICKABLE">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="80cbc4" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -829,7 +827,7 @@
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="80cbc4" />
+        <option name="FOREGROUND" value="c792ea" />
         <option name="EFFECT_COLOR" value="80cbc4" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -1379,6 +1377,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="BACKGROUND" value="264b33" />
@@ -70861,7 +70860,7 @@
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="39adb5" />
+        <option name="BACKGROUND" value="607d8b" />
       </value>
     </option>
     <option name="Number">
@@ -71875,6 +71874,12 @@
         <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
+    <option name="ReSharper.HINT">
+      <value>
+        <option name="EFFECT_COLOR" value="89ddff" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="ReSharper.LATE_BOUND_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="eeffff" />
@@ -71905,6 +71910,7 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="82aaff" />
@@ -71931,6 +71937,12 @@
       <value>
         <option name="FOREGROUND" value="ffc66d" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SUGGESTION">
+      <value>
+        <option name="EFFECT_COLOR" value="607d8b" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="Scala Abstract class">
@@ -72249,7 +72261,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c3cee3" />
-        <option name="BACKGROUND" value="282c34" />
+        <option name="BACKGROUND" value="263238" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -72337,7 +72349,12 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3a3f4b" />
+        <option name="BACKGROUND" value="415967" />
+      </value>
+    </option>
+    <option name="WRONG_REFERENCES_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="d32f2f" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
