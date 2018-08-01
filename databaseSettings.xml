@@ -34,7 +34,7 @@
       </csv-format>
       <csv-format name="Custom (CSV)" id="e1e53ca2-3743-4052-bfa8-aad4a3b34047">
         <data>
-          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;" trimWhitespace="true">
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator=";" recordSeparator="&#10;" trimWhitespace="true">
             <quotation>
               <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
               <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
@@ -42,13 +42,23 @@
           </record-format>
         </data>
         <header>
-          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator=";" recordSeparator="&#10;">
             <quotation>
               <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
               <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
             </quotation>
           </record-format>
         </header>
+      </csv-format>
+      <csv-format name="Custom without Header (CSV)" id="8e606749-022c-44e7-bed2-561b54d2c727">
+        <data>
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator=";" recordSeparator="&#10;" trimWhitespace="true">
+            <quotation>
+              <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+              <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+            </quotation>
+          </record-format>
+        </data>
       </csv-format>
     </csv-formats>
   </component>
